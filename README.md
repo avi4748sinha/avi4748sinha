@@ -11,7 +11,6 @@
 - 👯  I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with open source contributors.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me:<a href="https://www.linkedin.com/in/avinash-sinha-00938225a/"><img align="" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-- 
+- 📫 How to reach me:<a href="https://www.linkedin.com/in/avinash-sinha-00938225a/">< src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 -⚡ Fun fact: ...
 
