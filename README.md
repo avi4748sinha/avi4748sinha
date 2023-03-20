@@ -6,7 +6,7 @@
 ### 👩‍💻About Me :
 👋 Hi, I’m Avinash Sinha 
 
-- 🔭 I’m currently pusrsuing Btech in CSE(IOT) and contributing to frontend and backend for building web applications.
+- 🔭 I’m currently pursuing Btech in CSE(IOT) and contributing to frontend and backend for building web applications.
 - 🌱 I’m currently learning django .
 - 👯  I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with open source contributors.
