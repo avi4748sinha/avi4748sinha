@@ -14,7 +14,7 @@
 - 📫 How to reach me: [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/avinash-sinha-00938225a/E"
+    link = "https://www.linkedin.com/in/avinash-sinha-00938225a/"
 
 - ⚡ Fun fact: ...
 
